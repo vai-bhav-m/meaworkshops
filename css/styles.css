@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(0, 48, 95, 0.75);
+}
+
+.intro {
+  padding: 5% 7%;
+}
+
+.list {
+  text-align: left;
+}
+
+.topic {
+  text-align: center;
+}
+
+.offers {
+  width: 50%;
+}
